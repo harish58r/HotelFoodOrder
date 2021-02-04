@@ -1,0 +1,5 @@
+com/hoteladmin/controller/AdminController.class
+com/hoteladmin/service/UserService.class
+com/hoteladmin/dao/FoodItemsDao.class
+com/hoteladmin/model/FoodItems.class
+com/hoteladmin/repository/FoodItemsRepo.class
